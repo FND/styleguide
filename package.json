@@ -24,6 +24,7 @@
     "live-server": "^1.2.0",
     "metacolon": "^1.0.0",
     "prismjs": "^1.15.0",
+    "require-from-string": "^2.0.2",
     "rollup-plugin-babel": "^4.0.3"
   },
   "devDependencies": {
